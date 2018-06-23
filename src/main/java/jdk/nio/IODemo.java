@@ -1,4 +1,4 @@
-package JDK.nio;
+package jdk.nio;
 
 import java.io.*;
 

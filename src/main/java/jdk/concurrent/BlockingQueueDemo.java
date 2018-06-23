@@ -1,4 +1,4 @@
-package JDK.concurrent;
+package jdk.concurrent;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingDeque;

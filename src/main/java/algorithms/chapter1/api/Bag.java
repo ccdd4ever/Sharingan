@@ -1,4 +1,4 @@
-package Algorithms.chapter1.api;
+package algorithms.chapter1.api;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package JDK.concurrent;
+package jdk.concurrent;
 /*
  * ��ʾ��������
  */

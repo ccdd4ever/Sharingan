@@ -1,4 +1,4 @@
-package JDK.reflect;
+package jdk.reflect;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

@@ -1,4 +1,4 @@
-package JDK.concurrent;
+package jdk.concurrent;
 
 /**
  * Created by yuanhai on 2016/4/1.
